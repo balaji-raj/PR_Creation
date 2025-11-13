@@ -1,0 +1,2 @@
+"- name: Auto Merge PR Action
+  uses: tranvinh21/auto-merge-pr@v1"
