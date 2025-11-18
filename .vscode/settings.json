@@ -1,0 +1,5 @@
+{
+    "jiraExtension.useDummyData": false,
+    "jiraExtension.instanceUrl": "https://balaji-raj.atlassian.net",
+    "jiraExtension.projectKey": "SCRUM"
+}
