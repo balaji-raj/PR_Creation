@@ -5,3 +5,6 @@ SCRUM boards
 
 
 'main' with data
+
+fix with more texts
+
