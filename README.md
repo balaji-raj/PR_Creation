@@ -21,8 +21,7 @@ Prefix with the Jira key and a concise summary:
 ## Create a Pull Request
 - Compare your feature branch against the default branch.
 - Title: Include the Jira key (e.g., SCRUM-7: Fix README).
-- Body: What changed, why, and any validation notes.
-- Link the Jira ticket.
+
 
 ## Links
 - Jira board: https://balaji-raj.atlassian.net/jira/software/c/projects/SCRUM
