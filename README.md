@@ -9,6 +9,8 @@ A lightweight repository to practice clean Git branching and pull request workfl
 4. Commit with a Jira key prefix.
 5. Push and open a Pull Request.
 
+
+
 ## Branch Naming
 Use the Jira key and a short slug:
 - Example: SCRUM-7-Fix-README
