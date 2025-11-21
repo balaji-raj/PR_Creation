@@ -6,8 +6,6 @@ A lightweight repository to practice clean Git branching and pull request workfl
 1. Fork/clone the repo.
 2. Create a feature branch from the default branch (e.g., `main`).
 3. Make focused changes.
-4. Commit with a Jira key prefix.
-5. Push and open a Pull Request.
 
 
 
