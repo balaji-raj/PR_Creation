@@ -1,4 +1,4 @@
-# PR_Creation
+# PR_Creation new
 
 A lightweight repository to practice clean Git branching and pull request workflows, with Jira-linked commit conventions.
 
@@ -6,8 +6,8 @@ A lightweight repository to practice clean Git branching and pull request workfl
 1. Fork/clone the repo.
 2. Create a feature branch from the default branch (e.g., `main`).
 3. Make focused changes.
-4. Commit with a Jira key prefix.
-5. Push and open a Pull Request.
+
+
 
 ## Branch Naming
 Use the Jira key and a short slug:
@@ -21,8 +21,7 @@ Prefix with the Jira key and a concise summary:
 ## Create a Pull Request
 - Compare your feature branch against the default branch.
 - Title: Include the Jira key (e.g., SCRUM-7: Fix README).
-- Body: What changed, why, and any validation notes.
-- Link the Jira ticket.
+
 
 ## Links
 - Jira board: https://balaji-raj.atlassian.net/jira/software/c/projects/SCRUM
