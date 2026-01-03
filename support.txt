@@ -1,1 +1,7 @@
 Scrum boards help agile teams break large, complex projects into manageable pieces of work so focused teams ship faster.
+
+
+ddd
+
+Improvise this commit message to dynamic based on files committed or provide button to to AI Generate Commit Message as like in vs code Source Control tab 
+if cant, please add clear button to clear auto generated commit message
